@@ -1,2 +1,2 @@
 # Proyecto-Codigos-Postales
-En los archivos que se encuentran libres,se tiene como borrador,el la carpeta de trabajo formal,se va a encontrar  las mejoras del proyecto final
+En los archivos que se encuentran libres,se tiene como borrador,la carpeta "trabajo formal" es donde estarán los cambios a trabajar y donde se irá mejorando sobre la marcha
